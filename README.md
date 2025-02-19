@@ -1,16 +1,5 @@
 # notes_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a basic notes taking application that performs CRUD operations on local database (sqflite).
+![v1 s1](https://github.com/user-attachments/assets/6630477f-ff25-42ac-83af-661fff602410)
+![v1 s2](https://github.com/user-attachments/assets/6700aedb-0f6e-4219-b564-3a41999b4144)
+![v1 s3](https://github.com/user-attachments/assets/fa31f6ef-bfc2-438e-afb9-a30d932ff088)
